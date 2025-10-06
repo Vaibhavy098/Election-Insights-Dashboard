@@ -31,7 +31,9 @@ It combines insights from all milestones of the internship into a single, unifie
 3. Interact with filters and visuals to explore election insights.
 
 ## 📸 Dashboard Preview
-<img width="1322" height="763" alt="Screenshot 2025-09-30 191741" src="https://github.com/user-attachments/assets/9ef9cb9e-ce44-45bc-b92c-ff94ec5a6c7d" />
+
+<img width="1311" height="734" alt="Screenshot 2025-10-06 214734" src="https://github.com/user-attachments/assets/65a187cb-d744-415c-8a28-169e5bb9212f" />
+
 
 ## 📜 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
