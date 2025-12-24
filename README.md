@@ -11,7 +11,7 @@ Part of the **Infosys Springboard Internship**, this project delivers an interac
 - Track voter turnout, party performance, and candidate stats  
 - Compare urban vs. rural voting patterns  
 - Analyze historical trends across states and constituencies  
-- Access real-time updates via API integration  
+- Access real-time updates via API integration
 
 ---
 
